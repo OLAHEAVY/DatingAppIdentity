@@ -1,0 +1,9 @@
+.dropdown-toggle, .dropdown-item{
+    cursor: pointer;
+}
+/* css for the image on the navabar */
+img{
+    max-height: 50px;
+    border:2px solid white;
+    display: inline;
+}
